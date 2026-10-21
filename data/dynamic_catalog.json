@@ -1,0 +1,54 @@
+[
+  {
+    "id": "prod-94c4737a",
+    "category": "LPG Stove",
+    "model_name": "3 Burner",
+    "description": "",
+    "images": [
+      {
+        "path": "C:\\Users\\abcom\\Downloads\\Butterfly project\\data\\images\\prod-94c4737a.webp",
+        "filename": "prod-94c4737a.webp"
+      },
+      {
+        "path": "C:\\Users\\abcom\\Downloads\\Butterfly project\\data\\images\\img-dc5dd0bd.webp",
+        "filename": "img-dc5dd0bd.webp"
+      }
+    ]
+  },
+  {
+    "id": "prod-24a4b1e2",
+    "category": "LPG Stove",
+    "model_name": "2 Burnner",
+    "description": "",
+    "images": [
+      {
+        "path": "C:\\Users\\abcom\\Downloads\\Butterfly project\\data\\images\\prod-24a4b1e2.webp",
+        "filename": "prod-24a4b1e2.webp"
+      },
+      {
+        "path": "C:\\Users\\abcom\\Downloads\\Butterfly project\\data\\images\\img-79d78b1a.webp",
+        "filename": "img-79d78b1a.webp"
+      },
+      {
+        "path": "C:\\Users\\abcom\\Downloads\\Butterfly project\\data\\images\\img-58ac964e.png",
+        "filename": "img-58ac964e.png"
+      }
+    ]
+  },
+  {
+    "id": "prod-9f26fed2",
+    "category": "Wet Grinder",
+    "model_name": "1wet",
+    "description": "",
+    "images": [
+      {
+        "path": "C:\\Users\\abcom\\Downloads\\Butterfly project\\data\\images\\prod-9f26fed2.webp",
+        "filename": "prod-9f26fed2.webp"
+      },
+      {
+        "path": "C:\\Users\\abcom\\Downloads\\Butterfly project\\data\\images\\img-20c93abf.webp",
+        "filename": "img-20c93abf.webp"
+      }
+    ]
+  }
+]

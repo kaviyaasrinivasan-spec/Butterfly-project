@@ -1,0 +1,66 @@
+[
+  {
+    "id": "mg-001",
+    "category": "Mixer Grinder",
+    "model_name": "Smart Mix 750W",
+    "description": "Smart Mix 750W Mixer Grinder with 4 Jars (Grey/Silver)",
+    "features": ["750W motor", "4 Jars", "Stainless steel jars"],
+    "price_range": "₹3,500 - ₹4,500"
+  },
+  {
+    "id": "mg-002",
+    "category": "Mixer Grinder",
+    "model_name": "Jet Elite 750W",
+    "description": "Jet Elite 750-Watt Mixer Grinder with 4 Jars",
+    "features": ["750W motor", "4 Jars", "ABS Body"],
+    "price_range": "₹3,000 - ₹4,000"
+  },
+  {
+    "id": "mg-003",
+    "category": "Mixer Grinder",
+    "model_name": "Rapid 750W",
+    "description": "Rapid 750-Watt Mixer Grinder with 3 Jars",
+    "features": ["750W motor", "3 Jars", "Elegant design"],
+    "price_range": "₹2,500 - ₹3,500"
+  },
+  {
+    "id": "ls-001",
+    "category": "LPG Stove",
+    "model_name": "Grand 3 Burner",
+    "description": "Grand 3 Burner Glass Top Gas Stove",
+    "features": ["3 Burners", "Toughened glass top", "Brass burners"],
+    "price_range": "₹3,000 - ₹4,000"
+  },
+  {
+    "id": "ls-002",
+    "category": "LPG Stove",
+    "model_name": "Ace 2 Burner",
+    "description": "Ace 2 Burner Glass Top Gas Stove",
+    "features": ["2 Burners", "Spill proof design"],
+    "price_range": "₹1,500 - ₹2,500"
+  },
+  {
+    "id": "pc-001",
+    "category": "Pressure Cooker",
+    "model_name": "Curve 3L",
+    "description": "Curve 3 Litre Outer Lid Pressure Cooker",
+    "features": ["3 Litre capacity", "Ergonomic handles", "Aluminium base"],
+    "price_range": "₹1,000 - ₹1,500"
+  },
+  {
+    "id": "pc-002",
+    "category": "Pressure Cooker",
+    "model_name": "Blue Line 5L",
+    "description": "Blue Line 5 Litre Stainless Steel Pressure Cooker",
+    "features": ["5 Litre capacity", "Stainless Steel", "Induction base"],
+    "price_range": "₹2,000 - ₹3,000"
+  },
+  {
+    "id": "rc-001",
+    "category": "Rice Cooker",
+    "model_name": "KRC-22 1.8L",
+    "description": "KRC-22 1.8-Litre Electric Rice Cooker",
+    "features": ["1.8 Litre", "Auto warm", "Cooks upto 1 Kg rice"],
+    "price_range": "₹1,500 - ₹2,500"
+  }
+]
